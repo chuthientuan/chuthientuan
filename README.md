@@ -1,4 +1,4 @@
-## <p align="left">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoco&size=25&duration=4000&pause=500&color=3529F7&multiline=true&width=435&height=70&lines=+%F0%9F%91%8B++Hello%2C+I'm+Tuan!;Welcome+to+my+Github!+%F0%9F%9A%80)](https://git.io/typing-svg)</p>
+<h1 align="center">Hi 👋, I'm Tuan</h1>
 
 ### Version Control
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
@@ -31,8 +31,8 @@
 ![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+10&color=0078D6&logo=Windows+10&logoColor=FFFFFF&label=)
 ![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+11&color=0078D4&logo=Windows+11&logoColor=FFFFFF&label=)
 
-### You can reach me at 🌹
+### You can reach me at
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100070020639114)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chuthientuan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chutuan.work@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hoang_manhkhiem)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chu_thientuan/)

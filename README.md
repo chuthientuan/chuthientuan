@@ -26,7 +26,7 @@
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Dev-C++](https://img.shields.io/badge/DevC-community-blue?logo=https://example.com/devc-logo.png)
+![Dev-C++](https://img.shields.io/badge/DevC-community-blue?logo=https://i.rada.vn/data/image/2014/06/25/Bloodshed-Dev-C2.png)
 
 ### Work With Operating System
 ![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+10&color=0078D6&logo=Windows+10&logoColor=FFFFFF&label=)
